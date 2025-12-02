@@ -13,9 +13,11 @@ This test plan covers the Tic Tac Toe Hot Seat game functionality, including pag
 
 ## Test Scenarios
 
-### 1. Smoke Test - Page Load
+### 1. Smoke Test - Page Load ✅ AUTOMATED
 
 **Objective**: Verify the game page loads correctly with all elements in their initial state.
+
+**Automated**: `tests/tic-tac-toe.spec.ts` - Test: "should load the game page with all elements in initial state"
 
 | Step | Action | Expected Result |
 |------|--------|-----------------|

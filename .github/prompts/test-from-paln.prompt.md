@@ -14,3 +14,5 @@ agent: agent
 
 
 5. Synchronize the status in #file:../../TEST_PLAN.md by clearly marking which parts of each scenario are now covered by automated tests.
+
+6. Add corresponding playwright tags to given test and test cases
