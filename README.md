@@ -2,7 +2,7 @@
 
 This repository contains code used during Webinar organized by jaktestowac.pl:
 
-Playwright Webinar: AI-Driven Testing with Playwright – From Plan to Tests with AI Agents
+**Playwright Webinar: AI-Driven Testing with Playwright – From Plan to Tests with AI Agents**
 
 that demonstrate use of AI, Agents, and Playwright MCP for advanced test automation 😎
 
